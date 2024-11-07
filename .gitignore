@@ -1,0 +1,7 @@
+idea/
+.env
+.aws-sam
+.idea/
+go.sum
+.DS_Store
+__debug_bin*
